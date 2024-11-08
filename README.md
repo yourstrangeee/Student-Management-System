@@ -16,7 +16,7 @@ Welcome to the **Student Management System**! This is a Python-based application
 1. Clone this repository or download the script file.
 
 ```bash
-git clone https://github.com/yourstrangeee/Student-Management-System.git```
+git clone https://github.com/yourstrangeee/Student-Management-System.git
 
 2. Open the project folder and run the student_management.py file:
 
