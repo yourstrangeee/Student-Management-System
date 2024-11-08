@@ -21,5 +21,7 @@ git clone https://github.com/yourstrangeee/Student-Management-System.git
 
 2. Open the project folder and run the student_management.py file:
 
-```python student_management.py```
+```bash
+python student_management.py
+```
 
